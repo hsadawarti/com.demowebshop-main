@@ -20,4 +20,7 @@ public class Page_login extends Baseclass {
 
 	}
 	
+	public void update() {
+		
+	}
 }
