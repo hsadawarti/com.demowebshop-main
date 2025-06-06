@@ -21,6 +21,6 @@ public class Page_login extends Baseclass {
 	}
 	
 	public void update() {
-		
+		System.out.println("Hello there trying to do commit");
 	}
 }
