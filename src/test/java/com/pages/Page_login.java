@@ -19,4 +19,8 @@ public class Page_login extends Baseclass {
 		driver.switchTo().alert().accept();
 
 	}
+	
+	public void update() {
+		
+	}
 }

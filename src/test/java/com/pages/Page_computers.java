@@ -95,15 +95,7 @@ public class Page_computers extends Baseclass {
 		 soft_check_cmndr2.click();
 		 
 		 driver.findElement(By.xpath(loc.getProperty("addToCart"))).click();
-		 
-		 
-		 
-		 
-		 
-		 
-		 
-		 
-		 
+		  
 		 
 	}
 	
