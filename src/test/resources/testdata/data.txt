@@ -1,0 +1,9 @@
+user = qwerty@example.com
+pass = qwerty@123
+
+< Registration Form >
+firstName = ABC
+lastName = XYZ
+regEmail = qwerty@example.com
+regPass = qwerty@123
+regCnfmPass = qwerty@123

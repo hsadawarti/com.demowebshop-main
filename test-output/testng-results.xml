@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-03T12:36:47 IST" name="Default suite" finished-at="2025-05-03T12:37:31 IST" duration-ms="43465">
+    <groups>
+    </groups>
+    <test started-at="2025-05-03T12:36:47 IST" name="Default test" finished-at="2025-05-03T12:37:31 IST" duration-ms="43465">
+      <class name="com.testcases.Tc_computers">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.testcases.Tc_computers@55740540]" started-at="2025-05-03T12:36:47 IST" name="browserLaunch" finished-at="2025-05-03T12:36:59 IST" duration-ms="12044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="computers()[pri:0, instance:com.testcases.Tc_computers@55740540]" started-at="2025-05-03T12:37:00 IST" name="computers" finished-at="2025-05-03T12:37:31 IST" duration-ms="31076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- computers -->
+      </class> <!-- com.testcases.Tc_computers -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
